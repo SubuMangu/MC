@@ -55,6 +55,15 @@
 - Types of GPRS devices(A,B,C)
 - GPRS Protocol Stack
 - GPRS Physical and Logical layers
-
-
-
+## Bluetooth
+- Basic info
+- Piconet vs Scatternet
+- Protocol Stack
+    - Functions of LMP
+- States of Bluetooth devices
+## WLAN
+- BSS,ESS,IBSS
+- WLAN Protocol Stack
+- Frame format of Physical and MAC Layer
+- MAC Mechanism(DCF,PCF)
+- DIFS,PIFS,SIFS,EIFS
