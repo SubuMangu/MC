@@ -62,10 +62,27 @@
     - Functions of LMP
 - States of Bluetooth devices
 ## WLAN
-- CSMA,CSMA-CD,CSMA-CA
 - BSS,ESS,IBSS
 - WLAN Protocol Stack
 - Frame format of Physical and MAC Layer
 - MAC Mechanism(DCF,PCF)
+- CSMA,CSMA-CD,CSMA-CA
 - DIFS,PIFS,SIFS,EIFS
+## Mobile IP
+- Components or Architechture
+- Types of Care of Address
+- Working
+- Tunneling and Encapsulation
+## MANet
+- Types of Routing Protocols in MANet
+- Advantages and Disadvantages of Proactive and Reactive Protocols
+- AODV,DSR,DSDV(LQ)
+## 3G
+- IMT 2000
+    - Introduction and Features
+    - Architechture
+- CDMA2000,W-CDMA,3GPP and 3GPP2
+- UMTS Architechture
+- SIM vs USIM(Later)
+
 
