@@ -25,7 +25,7 @@
     - Slow Hopping, Fast Hopping
     - Dwell Time
     - Transmitter and Receiver
-## Cellulul Networks
+## Cellular Networks
 - Cell,Sector,Clustering
 - BTS
 - Types of Cells 
@@ -55,5 +55,6 @@
 - Types of GPRS devices(A,B,C)
 - GPRS Protocol Stack
 - GPRS Physical and Logical layers
+
 
 
