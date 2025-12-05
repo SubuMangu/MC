@@ -10,6 +10,7 @@
     - Digital to Analog
         - QAM
     - Analog to Analog
+- Quantization and Sampling
 - Multiplexing and Demultiplexing
     - Types of Multiplexing
 - Antennas
@@ -54,4 +55,5 @@
 - Types of GPRS devices(A,B,C)
 - GPRS Protocol Stack
 - GPRS Physical and Logical layers
+
 
