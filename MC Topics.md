@@ -5,6 +5,7 @@
 - Modulation
     - Digital to Digital
     - Analog to Digital
+        - PCM(Pulse Code Modulation)
 - Demodulation
     - Digital to Digital
     - Digital to Analog
@@ -84,5 +85,20 @@
 - CDMA2000,W-CDMA,3GPP and 3GPP2
 - UMTS Architechture
 - SIM vs USIM(Later)
-
+## 4G
+- Introduction
+- LTE
+- LTE-FDD vs LTE-TDD
+- VoLTE
+- Advantanges and Disadvantages of 4G
+## Sattelite Systems
+- GMSS
+- Types of Satellites based on Altitude(GEO,MEO,LEO)
+    - Altitude
+    - Orbitting Period
+    - Use
+- Eccentricity
+- Inclination and Types of Orbits based on Inclination
+- Satellite System Architechture
+- Sattelite Constellations: Global star, Iridium, ICO
 
