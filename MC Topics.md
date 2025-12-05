@@ -1,0 +1,57 @@
+## Basics
+- Signal Propagation parameters or factors(FS2RSD)
+- Slow Fading vs Fast Fading
+- SNR,SINR
+- Modulation
+    - Digital to Digital
+    - Analog to Digital
+        - PCM
+- Demodulation
+    - Digital to Digital
+    - Digital to Analog
+        - QAM
+    - Analog to Analog
+- Multiplexing and Demultiplexing
+    - Types of Multiplexing
+- Antennas
+    - Isotropic Radiator
+    - Types of Antenna(Omidirectional,Directional, Sectorized)
+- Ranges of Signal Propagation
+- DSSS
+    - Chipping Sequence, Spread Factor
+    - Barker Code
+    - Receiver and Transmitter
+- FHSS
+    - Slow Hopping, Fast Hopping
+    - Dwell Time
+    - Transmitter and Receiver
+## Cellulul Networks
+- Cell,Sector,Clustering
+- BTS
+- Types of Cells 
+- Types of Channel allocation
+- Frequency Reuse
+- Cell splitting
+## GSM
+- GSM Architechture
+- SIM,IMEI,IMSI,TMSI
+- GSM Physical Chanells
+    - Burst time(4.615ms,577 microsec)
+- GSM Logical Channels
+- Path Minimization
+- GSM Specifications(Gap 20)
+    - 900(890,25)
+    - 1800(1710,75)
+    - uplink < downlink
+    - physical channels(124,374)
+- GSM Protocol Stack*
+- Types of Handover
+- Soft handoff vs  Hard Handoff
+- Handoff vs Roaming
+## GPRS
+- GPRS Architechture
+    - Types of GSN
+    - Types of internal backbone network
+- Types of GPRS devices(A,B,C)
+- GPRS Protocol Stack
+- GPRS Physical and Logical layers
