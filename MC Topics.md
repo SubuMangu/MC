@@ -5,7 +5,6 @@
 - Modulation
     - Digital to Digital
     - Analog to Digital
-        - PCM
 - Demodulation
     - Digital to Digital
     - Digital to Analog
@@ -55,3 +54,4 @@
 - Types of GPRS devices(A,B,C)
 - GPRS Protocol Stack
 - GPRS Physical and Logical layers
+
